@@ -3,7 +3,7 @@
 An enhanced implementation for **Lithium-Ion Battery Remaining Useful Life (RUL)**, **State of Health (SOH)**, and **Raw Capacity** prediction using deep learning. This repository extends the original LSTM-based implementation by introducing **Temporal Convolutional Networks (TCN)** as an alternative sequence modeling architecture, enabling direct benchmarking between the two approaches.
 
 > **Original Repository:** https://github.com/MoHoss007/Li-Ion-Battery-RUL-SOH-Prediction  
-> **Enhanced Repository:** https://github.com/aahad699/Li-Ion-Battery-RUL-SOH-Prediction-main  
+> **Enhanced Repository:** https://github.com/aahad699/Li-Ion-Battery-RUL-SOH-Prediction-LSTM-TCN  
 > **Author of Enhancements:** Abdul Ahad
 
 ---
