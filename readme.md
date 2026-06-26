@@ -203,3 +203,4 @@ If you use this repository in your research, please consider citing both the ori
 ## License
 
 Please refer to the original repository's license before redistribution or commercial use.
+"This repository is an enhancement of the original work and is not intended to replace it."
